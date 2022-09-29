@@ -1,0 +1,3 @@
+C:/new/AYA/C++/Pari/Laba1.1/cmake-build-debug/CMakeFiles/Laba1_1.dir
+C:/new/AYA/C++/Pari/Laba1.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/new/AYA/C++/Pari/Laba1.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
